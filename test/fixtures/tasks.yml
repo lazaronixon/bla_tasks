@@ -1,0 +1,13 @@
+one:
+  title: Buy groceries
+  description: Milk, eggs, bread
+  status: created
+  due_date: 2026-04-01
+  user: one
+
+two:
+  title: Write report
+  description: Quarterly summary
+  status: in_progress
+  due_date: 2026-04-15
+  user: one
