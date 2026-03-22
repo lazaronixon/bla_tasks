@@ -1,0 +1,20 @@
+one:
+  user: one
+  title: Buy groceries
+  description: Milk, eggs, bread
+  status: todo
+  due_date: 2026-04-01
+
+two:
+  user: one
+  title: Write report
+  description: Quarterly financial report
+  status: in_progress
+  due_date: 2026-03-25
+
+other_user_task:
+  user: two
+  title: Other user task
+  description: This belongs to user two
+  status: done
+  due_date: 2026-05-01
